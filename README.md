@@ -123,17 +123,9 @@ Layout website menggunakan sistem **Bootstrap Grid** serta CSS media queries seh
 
 ## 🖥️ Cara Menjalankan
 
-1. Clone repository ini ke komputer:
+1. Clone repository ini ke komputer: git clone <https://github.com/Aaalyaa/Personal_Profile-2.0>
 
-```bash
-git clone <URL_REPOSITORY>
-```;
-
-2. Masuk ke folder project:
-
-```bash
-cd Personal-Portfolio
-```;
+2. Masuk ke folder project: cd Personal-Portfolio
 
 3. Buka file `index.html` menggunakan browser.
 
@@ -142,7 +134,6 @@ Website dapat dijalankan secara langsung tanpa server karena menggunakan HTML, C
 ## 👤 Pembuat
 
 **Putri Alya**
-
 Mahasiswi D3 Teknik Informatika
 
 Project ini dibuat untuk keperluan akademik pada mata kuliah **Workshop Web Desain** sekaligus dikembangkan sebagai personal portfolio.
